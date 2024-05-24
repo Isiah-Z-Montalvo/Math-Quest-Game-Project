@@ -8,17 +8,23 @@ main()
 start()
 ### Graphics:
 getImage()
+
 drawTitle()
+
 drawGame()
 ### Audio:
 playWin()
+
 playLoss()
+
 playMusic()
 ### Score:
 writeScores()
+
 readScores()
 ### RegexValidator:
 validateText()
+
 validateName()
 
 ## GameApp - Driver Class
